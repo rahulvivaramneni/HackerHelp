@@ -12,7 +12,7 @@ import config from 'config';
 
 const LogoSection = ({ sx, to }) => (
     <ButtonBase disableRipple component={Link} to={!to ? config.defaultPath : to} sx={sx}>
-        <h2> HackerHub</h2>
+        <h2> HackerHelp</h2>
     </ButtonBase>
 );
 

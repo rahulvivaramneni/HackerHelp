@@ -1,6 +1,6 @@
-# HackerHub
+# HackerHelp
 
-Many developer issues are lost in discord and Stack Overflow doesnt enable live debugging. Hacker Hub enables live debugging with mentors (or volunteers, as we call them). Choose how much you pay the mentor by posting a bounty amount. Chat with the mentor using Push; debug live over Huddle01 and mint a video NFT using LivePeer over IPFS to let your debug session be available to others for watching and learning.
+Many developer issues are lost in discord and Stack Overflow doesnt enable live debugging. Hacker Help enables live debugging with mentors (or volunteers, as we call them). Choose how much you pay the mentor by posting a bounty amount. Chat with the mentor using Push; debug live over Huddle01 and mint a video NFT using LivePeer over IPFS to let your debug session be available to others for watching and learning.
 
 ### Get Started :
 ```
@@ -21,7 +21,7 @@ https://goerli.etherscan.io/address/0xc7970e9c5aa18a7a9bf21c322bfa8ecebe7b7a26
 
   - Subgraph deployed on goerli:
     https://thegraph.com/studio/subgraph/devangel
-  - Hacker Hub Graph Playground: 
+  - Hacker Help Graph Playground: 
     https://thegraph.com/studio/subgraph/devangel/playground
   - Subgraph Queries (HTTP) endpoint:
     https://api.studio.thegraph.com/query/21552/devangel/0.2
