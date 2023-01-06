@@ -30,6 +30,7 @@
         "lodash": "^4.17.21",
         "multiselect-react-dropdown": "^2.0.25",
         "nft.storage": "^7.0.0",
+        "npm": "^8.19.3",
         "prop-types": "^15.8.1",
         "react": "^18.2.0",
         "react-apexcharts": "^1.4.0",
