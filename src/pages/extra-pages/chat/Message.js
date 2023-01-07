@@ -6,11 +6,13 @@ import { deepOrange } from '@mui/material/colors';
 const useStyles = makeStyles((theme) =>
     createStyles({
         messageRow: {
-            display: 'flex'
+            display: 'flex',
+            color:"#000000"
         },
         messageRowRight: {
             display: 'flex',
-            justifyContent: 'flex-end'
+            justifyContent: 'flex-end',
+            color:"#000000"
         },
         messageBlue: {
             position: 'relative',

@@ -48,12 +48,13 @@ function HuddleApp() {
                     </button>
                 ))}
 
-                <input type="text" value={walletAddress} onChange={(e) => setWalletAddress(e.target.value)} placeholder="Wallet Address" />
-
-                <button onClick={() => huddleIframeApp.methods.connectWallet(walletAddress)}>Connect Wallet</button>
+                
             </div>
         </div>
     );
 }
 
 export default HuddleApp;
+// <input type="text" value={walletAddress} onChange={(e) => setWalletAddress(e.target.value)} placeholder="Wallet Address" />
+
+//                 <button onClick={() => huddleIframeApp.methods.connectWallet(walletAddress)}>Connect Wallet</button>

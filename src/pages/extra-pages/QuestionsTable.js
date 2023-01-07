@@ -69,7 +69,7 @@ const headCells = [
         id: 'Bounty',
         align: 'right',
         disablePadding: false,
-        label: 'Bounty'
+        label: 'Reward'
     },
     {
         id: 'status',
