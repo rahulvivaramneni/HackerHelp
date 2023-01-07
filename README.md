@@ -30,7 +30,7 @@ https://goerli.etherscan.io/address/0xc7970e9c5aa18a7a9bf21c322bfa8ecebe7b7a26
 
 2. Huddle01:
     Integrated Video Calling using Huddle01 iFrame
-[Screenshot_20230107_201301](https://user-images.githubusercontent.com/61940373/211158995-22f19b81-42aa-4396-aede-bc3ea2a2063a.png)
+<img width="1289" alt="Huddle01 Screenshot" src="https://user-images.githubusercontent.com/61940373/211158995-22f19b81-42aa-4396-aede-bc3ea2a2063a.png">
 
 3. Push Chat 
 For providing support, we integrated Push Chat uiweb and restapi npm packages
