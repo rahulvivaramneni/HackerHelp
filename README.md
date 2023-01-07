@@ -29,15 +29,15 @@ https://goerli.etherscan.io/address/0xc7970e9c5aa18a7a9bf21c322bfa8ecebe7b7a26
 
 
 2. Huddle01:
-    Integrated Video Calling using Huddle01 iFrame 
-<img width="1214" alt="Rahul Huddle01" src="https://www.photobox.co.uk/my/photo/full?photo_id=505234668373">
+    Integrated Video Calling using Huddle01 iFrame
+[Screenshot_20230107_201301](https://user-images.githubusercontent.com/61940373/211158995-22f19b81-42aa-4396-aede-bc3ea2a2063a.png)
 
 3. Push Chat 
 For providing support, we integrated Push Chat uiweb and restapi npm packages
 <img width="1359" alt="Screenshot 2022-12-04 at 9 26 09 AM" src="https://user-images.githubusercontent.com/7895856/205473567-cf30f6ae-fd58-408f-9d84-892e418d5cbf.png">
 
 4. LivePeer Video Mint:
-We download the recording of the Huddle01 call and mint a video NFT from it using Livepeer NFT-Studio api. Code adapted from [Rahat's Workshop](https://www.youtube.com/watch?v=RdypNBNRZQE).
+We download the recording of the Huddle01 call and mint a video NFT from it using Livepeer NFT-Studio api.
 
 <img width="1389" alt="Screenshot 2022-12-05 at 12 36 37 AM" src="https://user-images.githubusercontent.com/7895856/205510774-b7cc8edb-f46d-4bd0-bf85-9739ea03145f.png"><img width="1397" alt="Screenshot 2022-12-05 at 12 37 01 AM" src="https://user-images.githubusercontent.com/7895856/205510779-e7d3e2f0-6e19-48fa-bc26-d9cc40848277.png">
 
