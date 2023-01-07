@@ -9,8 +9,8 @@ npm start
 ```
 And the application would run locally at http://localhost:3000/free
 
-### Demo Video :
-https://www.youtube.com/watch?v=4gU67Wr4RJs
+### Video :
+https://youtu.be/BePvLLgKm-s
 
 ### Verified Smart Contract on Goerli:
 https://goerli.etherscan.io/address/0xc7970e9c5aa18a7a9bf21c322bfa8ecebe7b7a26
@@ -30,7 +30,7 @@ https://goerli.etherscan.io/address/0xc7970e9c5aa18a7a9bf21c322bfa8ecebe7b7a26
 
 2. Huddle01:
     Integrated Video Calling using Huddle01 iFrame 
-<img width="1214" alt="Screenshot 2022-12-04 at 9 24 53 AM" src="https://user-images.githubusercontent.com/7895856/205473508-ed32028d-673a-4097-bdf8-8d12d034a79f.png">
+<img width="1214" alt="Rahul Huddle01" src="https://ibb.co/HV7zzSS">
 
 3. Push Chat 
 For providing support, we integrated Push Chat uiweb and restapi npm packages
