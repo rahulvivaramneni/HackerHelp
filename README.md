@@ -25,7 +25,7 @@ https://goerli.etherscan.io/address/0xc7970e9c5aa18a7a9bf21c322bfa8ecebe7b7a26
     https://thegraph.com/studio/subgraph/devangel/playground
   - Subgraph Queries (HTTP) endpoint:
     https://api.studio.thegraph.com/query/21552/devangel/0.2
-<img width="1289" alt="Screenshot 2022-12-04 at 6 56 05 PM" src="https://user-images.githubusercontent.com/7895856/205493094-65d3d4d5-abbe-4d78-88fa-f12f7a8b9045.png">
+<img width="1289" alt="Screenshot 2023-01-04 at 6 56 05 PM" src="https://user-images.githubusercontent.com/7895856/205493094-65d3d4d5-abbe-4d78-88fa-f12f7a8b9045.png">
 
 
 2. Huddle01:
@@ -34,13 +34,12 @@ https://goerli.etherscan.io/address/0xc7970e9c5aa18a7a9bf21c322bfa8ecebe7b7a26
 
 3. Push Chat 
 For providing support, we integrated Push Chat uiweb and restapi npm packages
-<img width="1359" alt="Screenshot 2022-12-04 at 9 26 09 AM" src="https://user-images.githubusercontent.com/7895856/205473567-cf30f6ae-fd58-408f-9d84-892e418d5cbf.png">
+<img width="1359" alt="Screenshot 2022-01-04 at 9 26 09 AM" src="https://user-images.githubusercontent.com/61940373/211660419-c68476e2-94e5-4f47-8008-8aebb475b924.png">
 
 4. LivePeer Video Mint:
 We download the recording of the Huddle01 call and mint a video NFT from it using Livepeer NFT-Studio api.
 
-<img width="1389" alt="Screenshot 2022-12-05 at 12 36 37 AM" src="https://user-images.githubusercontent.com/7895856/205510774-b7cc8edb-f46d-4bd0-bf85-9739ea03145f.png"><img width="1397" alt="Screenshot 2022-12-05 at 12 37 01 AM" src="https://user-images.githubusercontent.com/7895856/205510779-e7d3e2f0-6e19-48fa-bc26-d9cc40848277.png">
-
+<img width="1389" alt="Screenshot 2023-01-05 at 12 36 37 AM" src="https://user-images.githubusercontent.com/61940373/211660625-78b34604-ca32-40b8-93f2-a3fc63c44ebf.png"><img width="1397" alt="Screenshot 2022-12-05 at 12 37 01 AM" src="https://user-images.githubusercontent.com/61940373/211660850-9dabec22-26e5-4024-964d-3c1ee968fe1d.png">
 
 
 ### UX
