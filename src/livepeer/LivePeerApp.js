@@ -10,7 +10,7 @@ function LivePeerApp() {
   const [appState, setAppState] = useState("Ready to mint");
   console.log({ chainId })
   return (
-    <div className="">
+    <div>
       <header className="App-header">
        {
          !address && (
