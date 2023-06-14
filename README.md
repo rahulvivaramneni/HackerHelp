@@ -9,13 +9,6 @@ npm start
 ```
 And the application would run locally at http://localhost:3000/free
 
-### Video :
-https://youtu.be/tmVgVOpfsDk
-
-### Verified Smart Contract on Goerli:
-https://goerli.etherscan.io/address/0xc7970e9c5aa18a7a9bf21c322bfa8ecebe7b7a26
-
-
 ### Protocol Integrations:
 1. Graph:
 
